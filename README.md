@@ -1,1 +1,1 @@
-# burnout-assistant
+# burnout-assistant RAG
